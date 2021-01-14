@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Dark Simplicity"
-baseurl = "https://sangpotado.github.io"
+baseurl = "www.potadoland.xyz"
 theme = "darksimplicity"
 min_version = "0.57.0"
 contentdir = "content"
