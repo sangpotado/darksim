@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "Dark Simplicity"
-baseurl = "sangpotado.github.io"
+title = "potado'land"
+baseurl = ""
 theme = "darksimplicity"
 min_version = 0.57
 contentdir = "content"
@@ -10,7 +10,7 @@ builddrafts = false
 canonifyurls = true
 
 [params]
-description = "A Dark Minimalist Theme for Hugo"
+description = "where I bury my thots"
 copyright = "&copy Copyright 2017-2019. Matt Rhone and Dark Simplicity."
 mainSections = ["post"]
 #google_analytics_id=""
